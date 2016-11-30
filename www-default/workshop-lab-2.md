@@ -70,12 +70,14 @@ In the Virtual Thumbnail below, note the <i class="fa fa-exclamation-circle fa-l
 <img alt="CloudForms Virtual Thumbnail Disconnected" src="{{ site.baseurl }}/www-default/screenshots/cfme-virt-thumbnail-disconnected.png"/><br/>
 *Virtual Thumbnail Disconnected*
 
-When connected to providers, such as in a actual deployment, the <i class="fa fa-exclamation-circle fa-lg" aria-hidden="true"></i> is replaced with a <i class="fa fa-check-circle-o fa-lg" aria-hidden="true"></i>
-.
+When connected to providers, such as in a actual deployment, the <i class="fa fa-exclamation-circle fa-lg" aria-hidden="true"></i> is replaced with a <i class="fa fa-check-circle-o fa-lg" aria-hidden="true"></i>.
 
 A <i class="fa fa-shield fa-lg" aria-hidden="true"></i> (**Policy**) in the center of the virtual thumbnail indicates that this provider has one or more policies applied. There are no policies configured in this exercise, so the shield does not appear.
 
-In the top right corner of the window, click <i class="fa fa-th fa-lg" aria-hidden="true"></i> <i class="fa fa-th-large fa-lg" aria-hidden="true"></i> <i class="fa fa-list fa-lg" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
+> In the top right corner of the window, click <i class="fa fa-th" aria-hidden="true"></i> <i class="fa fa-th-large" aria-hidden="true"></i> <i class="fa fa-list" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
+
+<img alt="CloudForms Top Window Navigation Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-grid-title-list-infra-providers.png"/><br/>
+*Top Window Navigation*
 
 > Click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) for a list of providers in TXT, CSV, or PDF formats.
 
