@@ -124,4 +124,14 @@ Try using the <img alt="CloudForms Drift Icon" src="{{ site.baseurl }}/www-defau
 
 ### Explore Infrastructure Host Utilization
 
+> Click `esxi3 (Summary)` to select the host named `esxi3` from the **Drift Analysis** page.
+
+<img alt="CloudForms Dashboard ESXI3" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-esxi3-from-drift.png"/><br/>
+*Navigate Hosts Dashboard*
+
+> Click <img alt="CloudForms Monitor Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-monitor-icon.png"/> (**Monitor**) and then select <img alt="CloudForms Utilization Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-utilization-icon.png"/> (**Utilization**).
+
+<img alt="CloudForms Dashboard Hosts Monitor" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-monitor-infra-hosts.png"/><br/>
+*Navigate Hosts Monitor Utilization*
+
 ### Explore Infrastructure Host Power State Control
