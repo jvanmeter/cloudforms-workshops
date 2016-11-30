@@ -57,23 +57,23 @@ Review the data entry screen, but do not enter any information.
 
 The web interface uses virtual thumbnails to represent providers. Each thumbnail contains four quadrants by default, which display basic information about each provider.
 
-> Example CloudForms Virtual Thumbnail.
-
 <img alt="CloudForms Virtual Thumbnail" src="{{ site.baseurl }}/www-default/screenshots/cfme-virt-thumbnail.png"/><br/>
-*Virtual Thumbnail*
+*Example Virtual Thumbnail*
 
 1. Number of hosts
 2. Management system software
 3. Currently unused
 4. Authentication status
 
-In the Virtual Thumbnail below, note the **[INSERT_IMAGE_HERE]**. This demo is disconnected from the providers, so the exclamation point indicates the status as not connected.
+In the Virtual Thumbnail below, note the <i class="fa fa-exclamation-circle fa-lg" aria-hidden="true"></i>. This demo is disconnected from the providers, so if you ever encounter the exclamation point, it indicates the status as not connected.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Virtual Thumbnail Disconnected" src="{{ site.baseurl }}/www-default/screenshots/cfme-virt-thumbnail-disconnected.png"/><br/>
+*Virtual Thumbnail Disconnected*
 
-When connected to providers, such as in a actual deployment, the **[INSERT_IMAGE_HERE]** is replaced with a **[INSERT_IMAGE_HERE]**.
+When connected to providers, such as in a actual deployment, the <i class="fa fa-exclamation-circle fa-lg" aria-hidden="true"></i> is replaced with a <i class="fa fa-check-circle-o fa-lg" aria-hidden="true"></i>
+.
 
-A <i class="fa fa-shield" aria-hidden="true"></i> (**Policy**) in the center of the virtual thumbnail indicates that this provider has one or more policies applied. There are no policies configured in this exercise, so the shield does not appear.
+A <i class="fa fa-shield fa-lg" aria-hidden="true"></i> (**Policy**) in the center of the virtual thumbnail indicates that this provider has one or more policies applied. There are no policies configured in this exercise, so the shield does not appear.
 
 In the top right corner of the window, click **[INSERT_IMAGE_HERE]** to toggle between Grid, Tile, and List views.
 
