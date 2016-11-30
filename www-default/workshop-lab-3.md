@@ -134,4 +134,32 @@ Try using the <img alt="CloudForms Drift Icon" src="{{ site.baseurl }}/www-defau
 <img alt="CloudForms Dashboard Hosts Monitor" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-monitor-infra-hosts.png"/><br/>
 *Navigate Hosts Monitor Utilization*
 
+> Try changing the Interval to Hourly.
+
+<img alt="CloudForms Dashboard Monitor Utilization Interval" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-util-interval.png"/><br/>
+*Hosts Monitor Utilization Interval*
+
+Examine the screen that appears, showing a detailed report of CPU, memory, disk I/O, network, and running VMs.
+* To see a specific data point, hover over any chart.
+* To zoom in on a chart, click <i class="fa fa-search-plus fa-lg" aria-hidden="true"></i> (Zoom In).
+* To modify the timeframe displayed in the report, select the date range at the top of the screen.
+
+:warning: The data in this demo is stagnant, so do not go beyond August 7, 2013.
+
 ### Explore Infrastructure Host Power State Control
+
+Return to the list of Compute Hosts (eg, click the **Hosts** link in the navigation breadcrumbs at the top of the page).
+
+<img alt="CloudForms Infrastructure Hosts Breadcrumb" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts-breadcrumb.png" width="600"/><br/>
+*Infrastructure Hosts Breadcrumb*
+
+Check the box next to any host, but do not select the host.
+
+Note that the <img alt="CloudForms Power Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-power-icon.png"/> (**Power**), located above the list of hosts, is now active due to a host being selected.
+
+> Observe the available power states that you can set for this host.
+
+<img alt="CloudForms Infrastructure Hosts  Power States" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts-power-states.png" width="600"/><br/>
+*Infrastructure Hosts Power States*
+
+:warning: This demo environment is not connected to any real hosts, so changing the power state here does not affect any hosts.
