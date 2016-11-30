@@ -94,7 +94,34 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 
 > In the Relationships section, click Drift History.
 
-<img alt="CloudForms Dashboard ESXI3 Host" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-drift.png"/><br/>
-*Hosts Drift History*
+<img alt="CloudForms Dashboard ESXI3 Host Drift Tab" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-drift-1.png"/><br/>
+*Hosts Drift History Tab*
 
 :information_source: The **Relationships** section is an accordion tab nested within the host named `esxi3`.
+
+On the resulting screen, check at least two of the available dates.
+
+> Click <img alt="CloudForms Drift Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-drift-icon.png"/> (**Drift**) above the list of timestamps.
+
+<img alt="CloudForms Dashboard ESXI3 Host Drift Detail" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-drift-2.png"/><br/>
+*Hosts Drift History Detail*
+
+On the next screen, do not uncheck Properties, but check Security and Configuration.
+
+> Click Apply.
+
+<img alt="CloudForms Dashboard ESXI3 Host Drift Section Detail" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-drift-3.png"/><br/>
+*Hosts Drift Section Detail*
+
+If the host changes between the various points in time, it appears here. Can you see what’s changed over time?
+
+Try using the <img alt="CloudForms Drift Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-drift-filter-icon.png"/> (**Filters Buttons**) to see which changes have occurred.
+
+<img alt="CloudForms Dashboard ESXI3 Host Drift Filter Detail" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-drift-4.png"/><br/>
+*Hosts Drift Filter Detail*
+
+:information_source: You will likely need to click the little <i class="fa fa-angle-right fa-lg" aria-hidden="true"></i> mark next to the `Host Properties` section to expand and see the details of what’s changed.
+
+### Explore Infrastructure Host Utilization
+
+### Explore Infrastructure Host Power State Control
