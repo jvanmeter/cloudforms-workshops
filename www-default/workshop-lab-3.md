@@ -1,35 +1,42 @@
 ---
 layout: lab
-title: Discovering Hosts
-subtitle: Introducing Infrastructure Hosts
-html_title: Introducing Infrastructure Hosts
+title: Discovering Host Systems
+subtitle: Infrastructure Hosts
+html_title: Infrastructure Hosts
 categories: [lab, providers, ops]
 previous: workshop-lab-2.html
 ---
 
-### Viewing Infrastructure Hosts
+### What's an Infrastructure Host?
+
+In Red Hat CloudForms, the CloudForms Management Engine automatically adds hosts from discovered providers. However, you can also discover hosts directly if not using a provider. Discovering hosts is only supported for standalone VMware ESX servers.
+
+### Explore Infrastructure Hosts
 
 > Select Compute → Infrastructure → Hosts.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts.png" width="600"/><br/>
 *Infrastructure Hosts*
 
 A list of your private datacenter infrastructure hosts appears, such as VMware ESXi and Red Hat Enterprise Virtualization managed hosts (Red Hat Enterprise Linux or Red Hat Enterprise Virtualization Hypervisor).
 
 :information_source: You can discover hosts independently from an infrastructure provider, but this is not recommended because you do not see the relationship between hosts and providers.
 
+### Discover Infrastructure Hosts
+
 In very large environments, you can discover new hosts directly.
 
-> Click <i class="fa fa-cog" aria-hidden="true"></i> (**Configuration**), then click <i class="fa fa-search" aria-hidden="true"></i> (**Discover**).
+> Click <i class="fa fa-cog" aria-hidden="true"></i> (**Configuration**), then click <i class="fa fa-search" aria-hidden="true"></i> (**Discover items**).
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Discover Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-discover-infra-hosts.png"/><br/>
 *Discover Items*
 
 Review the data entry screen, but do not enter any information.
 
 >  Click **Cancel** to return to the previous screen.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Discover Infrastructure Hosts Cancel" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-discover-infra-hosts-cancel.png"/><br/>
+*Cancel Discovery*
 
 You can also add infrastructure hosts, if they are known.
 
