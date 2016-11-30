@@ -80,7 +80,7 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 > Select the infrastructure host named `esxi3` with VMware and 20 VMs, and observe the following details on the resulting screen:
 
 <img alt="CloudForms Dashboard ESXI3 Host" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-infra-hosts.png"/><br/>
-*Provider Dashboard*
+*Hosts Dashboard*
 
 1. The **Properties** section displays detailed information about the host.
   * Observe these parts of the **Properties** details to see how this host relates to its resources in the provider.
@@ -89,3 +89,12 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 4. The **Authentication** status section shows whether or not CloudForms can log in to the host.
 5. The **Security** section lists users, groups, patches, firewall rules, and other operating system security-related information.
 6. The **Configuration** section lists packages, services, and other operating system configuration-related information.
+
+### Explore Host Drift History
+
+> In the Relationships section, click Drift History.
+
+<img alt="CloudForms Dashboard ESXI3 Host" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-drift.png"/><br/>
+*Hosts Drift History*
+
+:information_source: The **Relationships** section is an accordion tab nested within the host named `esxi3`.
