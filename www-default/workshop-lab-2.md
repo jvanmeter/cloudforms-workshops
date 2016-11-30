@@ -77,11 +77,15 @@ A <i class="fa fa-shield fa-lg" aria-hidden="true"></i> (**Policy**) in the cent
 
 In the top right corner of the window, click <i class="fa fa-th fa-lg" aria-hidden="true"></i> <i class="fa fa-th-large fa-lg" aria-hidden="true"></i> <i class="fa fa-list fa-lg" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
 
-Click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) for a list of providers in TXT, CSV, or PDF formats.
+> Click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) for a list of providers in TXT, CSV, or PDF formats.
+
+ <img alt="CloudForms Download Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-download-infra-providers.png"/><br/>
+ *Download Provider*
 
 > Click any infrastructure provider and observe the following details on the resulting screen:
 
  <img alt="CloudForms Dashboard Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-infra-providers.png"/><br/>
+ *Provider Dashboard*
 
 1. The **Properties** section lists the aggregate host resources for the provider.
 2. CloudForms can communicate with the provider in the **Authentication Status** section.
