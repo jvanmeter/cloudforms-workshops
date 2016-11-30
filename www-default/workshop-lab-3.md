@@ -38,6 +38,8 @@ Review the data entry screen, but do not enter any information.
 <img alt="CloudForms Discover Infrastructure Hosts Cancel" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-discover-infra-hosts-cancel.png"/><br/>
 *Cancel Discovery*
 
+### Add Infrastructure Hosts
+
 You can also add infrastructure hosts, if they are known.
 
 > Click <i class="fa fa-cog" aria-hidden="true"></i> (**Configuration**), then click <i class="fa fa-plus-circle" aria-hidden="true"></i> (**Add**).
