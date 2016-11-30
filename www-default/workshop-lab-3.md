@@ -56,9 +56,9 @@ All infrastructure hosts have a four-quadrant Virtual Thumbnail.
 
 To download the list of hosts, click <i class="fa fa-download" aria-hidden="true"></i> (**Download**) next to <i class="fa fa-power-off" aria-hidden="true"></i> (**Power**).
 
-In the top right corner of the window, click <i class="fa fa-th" aria-hidden="true"></i> <i class="fa fa-th-large" aria-hidden="true"></i> <i class="fa fa-list" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
+In the top right corner of the window, click <i class="fa fa-th fa-lg" aria-hidden="true"></i> <i class="fa fa-th-large fa-lg" aria-hidden="true"></i> <i class="fa fa-list fa-lg" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
 
-Click <i class="fa fa-download" aria-hidden="true"></i> (**Download**) to download a list of hosts.
+Click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) to download a list of hosts.
 
 Select the infrastructure host named `esxi3` with VMware and 20 VMs, and observe the following details on the resulting screen:
 

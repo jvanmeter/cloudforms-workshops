@@ -57,7 +57,7 @@ Review the data entry screen, but do not enter any information.
 
 The web interface uses virtual thumbnails to represent providers. Each thumbnail contains four quadrants by default, which display basic information about each provider.
 
-<img alt="CloudForms Virtual Thumbnail" src="{{ site.baseurl }}/www-default/screenshots/cfme-virt-thumbnail.png"/><br/>
+<img alt="CloudForms Example Virtual Thumbnail" src="{{ site.baseurl }}/www-default/screenshots/cfme-virt-thumbnail.png"/><br/>
 *Example Virtual Thumbnail*
 
 1. Number of hosts
@@ -75,13 +75,13 @@ When connected to providers, such as in a actual deployment, the <i class="fa fa
 
 A <i class="fa fa-shield fa-lg" aria-hidden="true"></i> (**Policy**) in the center of the virtual thumbnail indicates that this provider has one or more policies applied. There are no policies configured in this exercise, so the shield does not appear.
 
-In the top right corner of the window, click **[INSERT_IMAGE_HERE]** to toggle between Grid, Tile, and List views.
+In the top right corner of the window, click <i class="fa fa-th fa-lg" aria-hidden="true"></i> <i class="fa fa-th-large fa-lg" aria-hidden="true"></i> <i class="fa fa-list fa-lg" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
 
-Click **[INSERT_IMAGE_HERE]** (**Download**) for a list of providers in TXT, CSV, or PDF formats.
+Click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) for a list of providers in TXT, CSV, or PDF formats.
 
 Click any infrastructure provider and observe the following details on the resulting screen:
 
- **[INSERT_IMAGE_HERE]**
+ <img alt="CloudForms Dashboard Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-infra-providers.png"/><br/>
 
 1. The **Properties** section lists the aggregate host resources for the provider.
 2. CloudForms can communicate with the provider in the **Authentication Status** section.
