@@ -4,11 +4,14 @@ title: Explore Cloud Providers
 subtitle:
 html_title:
 categories: [lab, providers, ops]
+next: workshop-lab-8.html
 previous: workshop-lab-5.html
 ---
 
 
 ### What's A Cloud Provider?
+
+In Red Hat CloudForms,
 
 ### Explore Cloud Providers
 

@@ -23,4 +23,6 @@ html_title: Workshops
 
 ### [Lab: Explore Cloud Providers](workshop-lab-7.html)
 
+### [Lab: Explore Cloud Instances](workshop-lab-8.html)
+
 ### [Fin.](workshop-finally.html)
