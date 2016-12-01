@@ -54,4 +54,4 @@ On the resulting screen, observe that your provision request appears in a list. 
 
 **[INSERT_IMAGE_HERE]**
 
-:information_source" You can also arrive at this screen by clicking **Services** → **Requests**.
+:information_source: You can also arrive at this screen by clicking **Services** → **Requests**.

@@ -20,8 +20,7 @@ In Red Hat CloudForms,
 
 A list of your private datacenter’s infrastructure virtual machines appears.
 
-
-### Explore the Virtual Thumbnail for infrastructure VMs
+### Explore the Virtual Thumbnail for Infrastructure VMs
 
 The web interface uses virtual thumbnails to represent providers. Each thumbnail contains four quadrants by default, which display basic information about each provider.
 
