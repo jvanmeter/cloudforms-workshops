@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: Explore Dashboard As Consumer User
+title: Explore Dashboard
 subtitle:
 html_title:
 categories: [lab, providers, ops]
