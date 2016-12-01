@@ -15,3 +15,42 @@ Execution consists of pre-processing and post-processing. Pre-processing acquire
 
 <img alt="CloudForms Discover Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-provision-vm-workflow.png"/><br/>
 *Provision VM Workflow*
+
+### Examine Infrastructure Provisioning
+
+> Select Compute → Infrastructure → Virtual Machines.
+
+**[INSERT_IMAGE_HERE]**
+
+On the left, in the **VMs** accordion, select **All VMs**.
+
+On the right, click **[INSERT_IMAGE_HERE]** (**Lifecycle**).
+
+> Select <i class="fa fa-plus-circle fa-lg" aria-hidden="true"></i> (Provision VMs), and observe the following.
+
+**[INSERT_IMAGE_HERE]**
+
+You are provided with a list of templates.
+
+The **Provider** column shows some templates are from Red Hat Enterprise Virtualization Manager and others are from VMware.
+
+> Select any template and click Continue.
+
+**[INSERT_IMAGE_HERE]**
+
+On the resulting page, perform the step indicated below for each tab and look at the data requested.
+
+**[INSERT_IMAGE_HERE]**
+
+* In the Request tab, fill out all the fields.
+* In the Catalog tab, set the VM Name.
+* In the Environment tab, check Choose Automatically.
+* Click Submit.
+
+:warning: Because you are working in a lab environment, nothing happens after these steps.
+
+On the resulting screen, observe that your provision request appears in a list. If you are in an environment with real infrastructure, you can monitor this area for the status of the VM build.
+
+**[INSERT_IMAGE_HERE]**
+
+:information_source" You can also arrive at this screen by clicking **Services** → **Requests**.

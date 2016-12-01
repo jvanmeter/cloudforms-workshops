@@ -43,7 +43,7 @@ Review the data entry screen, but do not enter any information.
 
 You can also add infrastructure hosts, if they are known.
 
-> Click <i class="fa fa-cog" aria-hidden="true"></i> (**Configuration**), then click <i class="fa fa-plus-circle" aria-hidden="true"></i> (**Add**).
+> Click <i class="fa fa-cog" aria-hidden="true"></i> (**Configuration**), then click <i class="fa fa-plus-circle fa-lg" aria-hidden="true"></i> (**Add**).
 
 <img alt="CloudForms Add Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-add-infra-hosts.png"/><br/>
 *Add Hosts*
