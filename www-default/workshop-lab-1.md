@@ -8,7 +8,7 @@ next: workshop-lab-2.html
 previous: workshop-lab-0.html
 ---
 
-### Welcome to CloudForms
+### Welcome To CloudForms
 This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content.  If you are already familiar with the basics of CloudForms you can skip this lab — after making sure you can login.
 
 ### Key Terms

@@ -8,7 +8,7 @@ next: workshop-lab-4.html
 previous: workshop-lab-2.html
 ---
 
-### What's an Infrastructure Host?
+### What's An Infrastructure Host?
 
 In Red Hat CloudForms, the CloudForms Management Engine automatically adds hosts from discovered providers. However, you can also discover hosts directly if not using a provider. Discovering hosts is only supported for standalone VMware ESX servers.
 
@@ -66,14 +66,14 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 * The top right quadrant shows the power state of the host.
 * The image in the bottom left quadrant represents the type of host, such as ESXi and Red Hat Enterprise Virtualization.
 * The bottom right quadrant shows the status of the host.
-* A <i class="fa fa-shield" aria-hidden="true"></i> (**Policy**) in the center indicates that this host has one or more policies applied.
+* A <i class="fa fa-shield fa-lg" aria-hidden="true"></i> (**Policy**) in the center indicates that this host has one or more policies applied.
 
-> To download the list of hosts, click <i class="fa fa-download" aria-hidden="true"></i> (**Download**) next to <i class="fa fa-power-off" aria-hidden="true"></i> (**Power**).
+> To download the list of hosts, click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) next to <i class="fa fa-power-off" aria-hidden="true"></i> (**Power**).
 
 <img alt="CloudForms Download Host Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-download-infra-hosts.png"/><br/>
 *Download Host*
 
-> In the top right corner of the window, click <i class="fa fa-th" aria-hidden="true"></i> <i class="fa fa-th-large" aria-hidden="true"></i> <i class="fa fa-list" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
+> In the top right corner of the window, click <i class="fa fa-th fa-lg" aria-hidden="true"></i> <i class="fa fa-th-large fa-lg" aria-hidden="true"></i> <i class="fa fa-list fa-lg" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
 
 <img alt="CloudForms Top Window Navigation Host Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-grid-title-list-infra-hosts.png"/><br/>
 *Top Window Navigation*
@@ -135,7 +135,7 @@ Try using the <img alt="CloudForms Drift Icon" src="{{ site.baseurl }}/www-defau
 <img alt="CloudForms Dashboard Hosts Monitor" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-monitor-infra-hosts.png"/><br/>
 *Navigate Hosts Monitor Utilization*
 
-> Try changing the Interval to Hourly.
+> Try changing the **Interval** to **Hourly**.
 
 <img alt="CloudForms Dashboard Monitor Utilization Interval" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-hosts-util-interval.png"/><br/>
 *Hosts Monitor Utilization Interval*

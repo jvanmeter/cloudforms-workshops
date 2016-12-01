@@ -10,11 +10,10 @@ next: workshop-lab-1.html
 ### If we provided you a laptop or cloud environment for this workshop
 :warning: We already set all this up for you — so you can skip everything below!
 
-
-### Install git
+### Install `git`
 We will use a few git commands directly in some of the advanced labs, please make sure git is installed on your system. You can download the latest version [here][1]{:target='_blank'}.
 
-### Create a GitHub account
+### Create GitHub account
 Create a **FREE** GitHub account by going to this [link][2]{:target='_blank'} and following their step-by-step instructions.
 
 ### Install Docker (optional)

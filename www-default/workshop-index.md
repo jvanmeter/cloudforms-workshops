@@ -17,4 +17,8 @@ html_title: Workshops
 
 ### [Lab: Explore Infrastructure VMs](workshop-lab-4.html)
 
+### [Lab: Explore Reports](workshop-lab-5.html)
+
+### [Lab: Examine Infrastructure Provisioning](workshop-lab-6.html)
+
 ### [Fin.](workshop-finally.html)
