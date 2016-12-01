@@ -4,5 +4,6 @@ title: Explore Dashboard
 subtitle:
 html_title:
 categories: [lab, providers, ops]
-previous: workshop-lab-5.html
+next: workshop-lab-10.html
+previous: workshop-lab-8.html
 ---

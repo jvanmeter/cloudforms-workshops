@@ -31,4 +31,8 @@ html_title: Workshops
 
 ### [Lab: Explore Catalog Configuration](workshop-lab-11.html)
 
+### [Lab: Explore Chargeback](workshop-lab-12.html)
+
+### [Lab: Explore Utilization](workshop-lab-13.html)
+
 ### [Fin.](workshop-finally.html)
