@@ -8,7 +8,7 @@ previous: workshop-lab-1.html
 next: workshop-lab-3.html
 ---
 
-### What's an Infrastructure Provider?
+### What's An Infrastructure Provider?
 
 In Red Hat CloudForms, an infrastructure provider is a virtual infrastructure environment that you can add to a Red Hat CloudForms appliance to manage and interact with the resources in that environment.
 
