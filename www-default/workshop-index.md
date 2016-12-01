@@ -25,4 +25,6 @@ html_title: Workshops
 
 ### [Lab: Explore Cloud Instances](workshop-lab-8.html)
 
+### [Lab: Explore Dashboard As Consumer User](workshop-lab-9.html)
+
 ### [Fin.](workshop-finally.html)

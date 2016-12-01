@@ -4,7 +4,8 @@ title: Explore Cloud Instances
 subtitle:
 html_title:
 categories: [lab, providers, ops]
-previous: workshop-lab-5.html
+next: workshop-lab-9.html
+previous: workshop-lab-7.html
 ---
 
 
