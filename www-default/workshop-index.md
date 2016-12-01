@@ -15,4 +15,6 @@ html_title: Workshops
 
 ### [Lab: Explore Infrastructure Hosts](workshop-lab-3.html)
 
+### [Lab: Explore Infrastructure VMs](workshop-lab-4.html)
+
 ### [Fin.](workshop-finally.html)

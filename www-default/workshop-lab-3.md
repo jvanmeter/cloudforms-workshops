@@ -4,6 +4,7 @@ title: Discovering Host Systems
 subtitle: Infrastructure Hosts
 html_title: Infrastructure Hosts
 categories: [lab, providers, ops]
+next: workshop-lab-4.html
 previous: workshop-lab-2.html
 ---
 
