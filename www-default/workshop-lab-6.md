@@ -4,6 +4,7 @@ title: Examine Infrastructure Provisioning
 subtitle:
 html_title:
 categories: [lab, providers, ops]
+next: workshop-lab-7.html
 previous: workshop-lab-5.html
 ---
 

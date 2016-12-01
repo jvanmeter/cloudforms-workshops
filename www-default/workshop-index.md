@@ -21,4 +21,6 @@ html_title: Workshops
 
 ### [Lab: Examine Infrastructure Provisioning](workshop-lab-6.html)
 
+### [Lab: Explore Cloud Providers](workshop-lab-7.html)
+
 ### [Fin.](workshop-finally.html)
