@@ -41,3 +41,28 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 **[INSERT_IMAGE_HERE]**
 
 ### Explore Cloud Instance Details
+
+> Click the Instances by Provider accordion.
+
+**[INSERT_IMAGE_HERE]**
+
+> Select any instance and observe the following on the resulting screen.
+
+**[INSERT_IMAGE_HERE]**
+
+1. The Properties section shows detailed information about the instance.
+2. The Lifecycle section shows when this instance was discovered, when it was most recently analyzed, and when it is scheduled for retirement.
+3. The Relationships section shows the related cloud provider, availability zone, flavor, and drift and analysis histories for this instance.
+
+Click these relationships to review how this instance relates to all of its resources.
+
+> When you have finished looking at the related resources, click  (Back) at the top left—not the browser’s back arrow.
+
+**[INSERT_IMAGE_HERE]**
+
+1. The Compliance section shows whether the instance is compliant with its applied policies.
+2. The Power Management section shows the instance’s current power state, most recent boot time, and most recent date that the power state changed.
+3. The Security section lists users, groups, and key pairs.
+4. The Configuration section lists applications/packages, initialization processes, files, and other operating system configuration-related information.
+5. The Diagnostics section shows any running processes and event logs for this instance.
+6. The Smart Management section shows tags you can use in policies and other CloudForms functions.
