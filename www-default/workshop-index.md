@@ -35,4 +35,8 @@ html_title: Workshops
 
 ### [Lab: Explore Utilization](workshop-lab-13.html)
 
+### [Lab: Explore Planning](workshop-lab-14.html)
+
+### [Lab: Examine Policies](workshop-lab-15.html)
+
 ### [Fin.](workshop-finally.html)
