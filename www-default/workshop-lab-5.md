@@ -14,7 +14,7 @@ In Red Hat CloudForms, reports have been constructed to help you view the most c
 
 ### Explore Reports
 
-> Select Cloud Intel → Reports.
+> Select **Cloud Intel** → **Reports**.
 
 <img alt="CloudForms Reports" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-reports.png" /><br/>
 *Navigate Reports*

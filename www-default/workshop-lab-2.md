@@ -16,7 +16,7 @@ In other words, a infrastructure provider is a management platform for managing 
 
 ### Explore Infrastructure Providers
 
-> Select Compute → Infrastructure → Providers.
+> Select **Compute** → **Infrastructure** → **Providers**.
 
 <img alt="CloudForms Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-providers.png" /><br/>
 *Infrastructure Providers*

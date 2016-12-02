@@ -16,7 +16,7 @@ The CloudForms Management Engine automatically adds hosts from discovered provid
 
 ### Explore Infrastructure Hosts
 
-> Select Compute → Infrastructure → Hosts.
+> Select **Compute** → **Infrastructure** → **Hosts**.
 
 <img alt="CloudForms Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts.png" /><br/>
 *Infrastructure Hosts*

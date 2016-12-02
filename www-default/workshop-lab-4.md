@@ -14,7 +14,7 @@ In Red Hat CloudForms, infrastructure VMs are operating systems running under a 
 
 ### Explore Infrastructure VMs
 
-> Select Compute → Infrastructure → Virtual Machines.
+> Select **Compute** → **Infrastructure** → **Virtual Machines**.
 
 <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-vms.png" /><br/>
 *Infrastructure VMs*

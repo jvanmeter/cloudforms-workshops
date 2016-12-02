@@ -19,7 +19,7 @@ Execution consists of pre-processing and post-processing. Pre-processing acquire
 
 ### Examine Infrastructure Provisioning
 
-> Select Compute → Infrastructure → Virtual Machines.
+> Select **Compute** → **Infrastructure** → **Virtual Machines**.
 
 <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-vms.png" /><br/>
 *Infrastructure VMs*
