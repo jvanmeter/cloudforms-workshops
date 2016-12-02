@@ -143,6 +143,7 @@ Try using the <img alt="CloudForms Drift Icon" src="{{ site.baseurl }}/www-defau
 *Hosts Monitor Utilization Interval*
 
 Examine the screen that appears, showing a detailed report of CPU, memory, disk I/O, network, and running VMs.
+
 * To see a specific data point, hover over any chart.
 * To zoom in on a chart, click <i class="fa fa-search-plus fa-lg" aria-hidden="true"></i> (Zoom In).
 * To modify the timeframe displayed in the report, select the date range at the top of the screen.
