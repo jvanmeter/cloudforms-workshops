@@ -40,7 +40,7 @@ You are provided with a list of templates.
 
 The **Provider** column shows some templates are from Red Hat Enterprise Virtualization Manager and others are from VMware.
 
-> Select any template and click Continue.
+> Select any template and click **Continue**.
 
 <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-provision-vm-2.png" /><br/>
 *Template Continue*
