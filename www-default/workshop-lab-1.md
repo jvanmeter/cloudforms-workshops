@@ -65,6 +65,6 @@ Go ahead and explore the data in each of the widgets:
 
 Feel free to zoom in, download, open in a new window, minimize, and then minimize it in the dashboard (you also can remove the data from the dashboard, but do not do this now).
 
-To return to this screen, select Cloud Intel → Dashboard.
+To return to this screen, select **Cloud Intel** → **Dashboard**.
 
 Lastly, experiment with dragging widgets to tailor the view.
