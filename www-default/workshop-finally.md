@@ -1,9 +1,11 @@
 ---
-layout: workshop
+layout: lab
 title: Workshop is Done
 subtitle: That's all folks
 html_title: Fin.
+categories: [lab, providers, ops]
 ---
+
 
 ## That's it!
 Hopefully, these labs provided you some idea of how to perform common tasks within the CloudForms environment. And hopefully, you have a deeper understanding of how CloudForms simplifies IT, providing unified management and operations in a hybrid environment.
