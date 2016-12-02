@@ -16,39 +16,40 @@ In Red Hat CloudForms, reports have been constructed to help you view the most c
 
 > Select Cloud Intel → Reports.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Reports" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-reports.png" /><br/>
 *Navigate Reports*
 
 The **Saved Reports** accordion contains previously generated reports.
 
-**[INSERT_IMAGE_HERE]**
-*Saved Reports*
+<img alt="CloudForms Saved Reports" src="{{ site.baseurl }}/www-default/screenshots/cfme-saved-reports.png" /><br/>
+*Saved Reports Accordion*
 
-The **Reports** accordion lists reports you can run on demand or by scheduling.
+> Scroll through the **Saved Reports** and select **VM Performance**.
 
-**[INSERT_IMAGE_HERE]**
-*Reports*
-
-> Click the Saved Reports accordion and select VM Performance.
-
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Saved Reports VM Performance" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-saved-reports-vm-performance.png" /><br/>
+*Saved Reports VM Performance*
 
 Select the previously generated report under it and observe that the report’s output is on the right.
 
 > To download the report, click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**).
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Saved Reports VM Performance" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-saved-reports-vm-performance-download.png" /><br/>
+*Saved Reports VM Performance Download*
 
 Explore the other reports.
 
 ### View Customization Options
 
-> Click the Reports accordion.
+The **Reports** accordion lists reports you can run on demand or by scheduling.
 
-**[INSERT_IMAGE_HERE]**
+> Click the **Reports** accordion.
 
-Scroll down and select My Company…, then click the light blue Custom folder.
+<img alt="CloudForms Reports Reports" src="{{ site.baseurl }}/www-default/screenshots/cfme-reports.png" /><br/>
+*Reports Accordion*
+
+> Scroll down and select **My Company…**, then click the light blue Custom folder.
+
+<img alt="CloudForms Reports Reports" src="{{ site.baseurl }}/www-default/screenshots/cfme-reports-custom.png" /><br/>
+*My Company Custom Reprts*
 
 Select any of the reports and observe that the report configuration appears on the right side as you select it.
-
-**[INSERT_IMAGE_HERE]**

@@ -18,7 +18,7 @@ The CloudForms Management Engine automatically adds hosts from discovered provid
 
 > Select Compute → Infrastructure → Hosts.
 
-<img alt="CloudForms Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts.png" width="600"/><br/>
+<img alt="CloudForms Infrastructure Hosts" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts.png" /><br/>
 *Infrastructure Hosts*
 
 A list of your private datacenter infrastructure hosts appears, such as VMware ESXi and Red Hat Enterprise Virtualization managed hosts (Red Hat Enterprise Linux or Red Hat Enterprise Virtualization Hypervisor).
@@ -153,7 +153,7 @@ Examine the screen that appears, showing a detailed report of CPU, memory, disk 
 
 Return to the list of Compute Hosts (eg, click the **Hosts** link in the navigation breadcrumbs at the top of the page).
 
-<img alt="CloudForms Infrastructure Hosts Breadcrumb" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts-breadcrumb.png" width="600"/><br/>
+<img alt="CloudForms Infrastructure Hosts Breadcrumb" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts-breadcrumb.png" /><br/>
 *Infrastructure Hosts Breadcrumb*
 
 Check the box next to any host, but do not select the host.
@@ -162,7 +162,7 @@ Note that the <img alt="CloudForms Power Icon" src="{{ site.baseurl }}/www-defau
 
 > Observe the available power states that you can set for this host.
 
-<img alt="CloudForms Infrastructure Hosts  Power States" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts-power-states.png" width="600"/><br/>
+<img alt="CloudForms Infrastructure Hosts  Power States" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-hosts-power-states.png" /><br/>
 *Infrastructure Hosts Power States*
 
 :warning: This demo environment is not connected to any real hosts, so changing the power state here does not affect any hosts.

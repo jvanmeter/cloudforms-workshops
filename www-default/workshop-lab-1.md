@@ -47,12 +47,12 @@ In this section, you log in to the CloudForms Management Engine web interface.
 
 :information_source: Accept any warnings regarding the SSL certificate.
 
-<img alt="CloudForms Console Login" src="{{ site.baseurl }}/www-default/screenshots/cfme-login.png" width="600"/><br/>
+<img alt="CloudForms Console Login" src="{{ site.baseurl }}/www-default/screenshots/cfme-login.png" /><br/>
 *Login Webpage*
 
 Once logged in you should see the **Cloud Intelligence** dashboard. This customized dashboard shows four (or more) widgets.
 
-<img alt="CloudForms Cloud Intelligence Dashboard" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-cloud-intel.png" width="600"/><br/>
+<img alt="CloudForms Cloud Intelligence Dashboard" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-cloud-intel.png" /><br/>
 *Cloud Intel Dashboard*
 
 ### Explore Cloud Intel Dashboard

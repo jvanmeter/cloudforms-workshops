@@ -18,7 +18,7 @@ In other words, a infrastructure provider is a management platform for managing 
 
 > Select Compute → Infrastructure → Providers.
 
-<img alt="CloudForms Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-providers.png" width="600"/><br/>
+<img alt="CloudForms Infrastructure Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-providers.png" /><br/>
 *Infrastructure Providers*
 
 A list of your datacenter infrastructure providers appears, such as VMware vCenter and Red Hat Enterprise Virtualization.
