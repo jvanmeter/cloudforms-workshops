@@ -15,9 +15,10 @@ In Red Hat CloudForms, a cloud provider is a computing platform that manages ins
 
 ### Explore Cloud Providers
 
-> Select Compute → Clouds → Providers.
+> Select **Compute** → **Clouds** → **Providers**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-cloud-providers.png" /><br/>
+*Cloud Providers*
 
 A list of your private and public cloud providers, such as OpenStack and Amazon EC2, appears.
 
