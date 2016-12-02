@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Explore Cloud Instances
-subtitle:
-html_title:
+subtitle: Cloud Infrastructure VMs
+html_title: Cloud Infrastructure VMs
 categories: [lab, providers, ops]
 next: workshop-lab-9.html
 previous: workshop-lab-7.html
@@ -11,7 +11,7 @@ previous: workshop-lab-7.html
 
 ### What Are Cloud Instances?
 
-In Red Hat CloudForms,
+In Red Hat CloudForms, a cloud instance is a virtual machines running under cloud infrastructure.
 
 ### Explore Cloud Instances
 
