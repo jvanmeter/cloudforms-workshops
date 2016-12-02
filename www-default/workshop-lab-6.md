@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Examine Infrastructure Provisioning
-subtitle:
-html_title:
+subtitle: A Phased Approach
+html_title: A Phased Approach
 categories: [lab, providers, ops]
 next: workshop-lab-7.html
 previous: workshop-lab-5.html
@@ -28,7 +28,7 @@ On the left, in the **VMs** accordion, select **All VMs & Templates**.
 
 On the right, click <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-lifecycle-icon.png" /> (**Lifecycle**).
 
-> Select <i class="fa fa-plus-circle fa-lg" aria-hidden="true"></i> (Provision VMs), and observe the following.
+> Select <i class="fa fa-plus-circle fa-lg" aria-hidden="true"></i> (**Provision VMs**), and observe the following.
 
 <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-vms-all-lifecycle.png" /><br/>
 *Provision VMs*
@@ -45,7 +45,7 @@ The **Provider** column shows some templates are from Red Hat Enterprise Virtual
 <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-provision-vm-2.png" /><br/>
 *Template Continue*
 
-On the resulting page, perform the step indicated below for each tab and look at the data requested.
+On the resulting page, perform the steps indicated below for each tab and look at the data requested.
 
 <img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-provision-vm-3.png" /><br/>
 *Provision Virtual Machines*

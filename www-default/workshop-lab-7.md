@@ -11,7 +11,7 @@ previous: workshop-lab-6.html
 
 ### What's A Cloud Provider?
 
-In Red Hat CloudForms,
+In Red Hat CloudForms, a cloud provider is a computing platform that manages instances and allows building of multi-tenant infrastructure services independent from underlying hypervisors.
 
 ### Explore Cloud Providers
 

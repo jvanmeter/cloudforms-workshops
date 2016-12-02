@@ -37,14 +37,6 @@ In this section, you log in to the CloudForms Management Engine web interface.
 
 > Navigate to the URI provided by your instructor and login with the user/password provided (if there's an icon on the Desktop, just double click that).
 
-<!-- ### Credentials
-
-| User | Password | Description |
-| ------ | ------------ | ----------- |
-| admin | smartvm | CloudForms Management Console |
-| clouduser | Redhat1! |  CloudForms Management Console |
-| cloudops | Redhat1! |  CloudForms Management Console | -->
-
 :information_source: Accept any warnings regarding the SSL certificate.
 
 <img alt="CloudForms Console Login" src="{{ site.baseurl }}/www-default/screenshots/cfme-login.png" /><br/>
