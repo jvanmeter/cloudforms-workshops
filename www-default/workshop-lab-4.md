@@ -87,8 +87,9 @@ We will continue using the `CF41_OpenStack1` VM.  If needed, find it by returnin
 *VMs Monitor Utilization Interval*
 
 Examine the screen that appears, showing a detailed report of CPU, memory, disk I/O, and network.
+
 * To see a specific data point, hover over any chart.
-* To zoom in on a chart, click  (Zoom In) in the lower left corner of the chart.
+* To zoom in on a chart, click <i class="fa fa-search-plus fa-lg" aria-hidden="true"></i> (Zoom In) in the lower left corner of the chart.
 * To modify the timeframe displayed in the report, select the date range at the top of the screen.
 
 :warning: The data in this demo is stagnant, so do not go beyond August 7, 2013.
