@@ -10,7 +10,9 @@ previous: workshop-lab-2.html
 
 ### What's An Infrastructure Host?
 
-In Red Hat CloudForms, the CloudForms Management Engine automatically adds hosts from discovered providers. However, you can also discover hosts directly if not using a provider. Discovering hosts is only supported for standalone VMware ESX servers.
+In Red Hat CloudForms, hosts are hypervisors running on physical hardware providing virtual machines and infrastructure.
+
+The CloudForms Management Engine automatically adds hosts from discovered providers. However, you can also discover hosts directly if not using a provider. Discovering hosts is only supported for standalone VMware ESX servers.
 
 ### Explore Infrastructure Hosts
 

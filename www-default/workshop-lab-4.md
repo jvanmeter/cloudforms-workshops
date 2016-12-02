@@ -10,7 +10,7 @@ previous: workshop-lab-3.html
 
 ### What's An Infrastructure VM?
 
-In Red Hat CloudForms,
+In Red Hat CloudForms, infrastructure VMs are operating systems running under a hypervisor.
 
 ### Explore Infrastructure VMs
 
@@ -74,19 +74,21 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 
 ### Explore Infrastructure VM Utilization
 
-We will continue using the `CF41_OpenStack1` VM.  If needed, find it by returning to the list of all VMs  (eg, Compute → Infrastructure → Virtual Machines → VMs → All VMs).
-
-**[INSERT_IMAGE_HERE]**
+We will continue using the `CF41_OpenStack1` VM.  If needed, find it by returning to the list of all VMs  (eg, Compute → Infrastructure → Virtual Machines → VMs → All VMs & Templates).
 
 > Click <img alt="CloudForms Monitor Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-monitor-icon.png"/> (**Monitor**) and then select <img alt="CloudForms Utilization Icon" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-utilization-icon.png"/> (**Utilization**).
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Dashboard VMs Monitor" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-monitor-infra-vms.png"/><br/>
+*Navigate VMs Monitor Utilization*
 
 > Try changing the **Interval** to **Daily**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Dashboard Monitor VM Utilization Interval" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-infra-vms-util-interval.png"/><br/>
+*VMs Monitor Utilization Interval*
 
 Examine the screen that appears, showing a detailed report of CPU, memory, disk I/O, and network.
 * To see a specific data point, hover over any chart.
 * To zoom in on a chart, click  (Zoom In) in the lower left corner of the chart.
 * To modify the timeframe displayed in the report, select the date range at the top of the screen.
+
+:warning: The data in this demo is stagnant, so do not go beyond August 7, 2013.

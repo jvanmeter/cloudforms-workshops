@@ -12,6 +12,8 @@ next: workshop-lab-3.html
 
 In Red Hat CloudForms, an infrastructure provider is a virtual infrastructure environment that you can add to a Red Hat CloudForms appliance to manage and interact with the resources in that environment.
 
+In other words, a infrastructure provider is a management platform for managing virtual machines from a single type of hypervisor. Infrastructure providers supported by CloudForms are Red Hat Enterprise Virtualization Management (RHEV-M), VMware vCenter and Microsoft System Center Virtual Machine Manager (SCVMM).
+
 ### Explore Infrastructure Providers
 
 > Select Compute → Infrastructure → Providers.
