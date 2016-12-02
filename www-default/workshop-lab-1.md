@@ -19,7 +19,7 @@ Before sinking our teeth into Cloud Forms it is important to understand some ter
 * **Clusters** – Provide high availability and load balancing for a group of hosts. Clusters are groupings of compute hosts that share similar resources such as network and storage.
 * **Virtual Machines** – Operating systems running under a hypervisor.
 * **Datastores** – Storage locations that contain virtual images and disks.
-* **Cloud Providers** – A cloud provider is a computing platform that manages instances and allows building of multi-tenant infrastructure services independent from underlying hypervisors. Cloud providers supported by CloudForms are Amazon EC2 and OpenStack.
+* **Cloud Providers** – A cloud provider is a computing platform that manages instances and allows building of multi-tenant infrastructure services independent from underlying hypervisors. Cloud providers supported by CloudForms are Amazon EC2, OpenStack, and Google Compute Engine (GCE).
 * **Availability Zones** – Logical or physical groupings of cloud resources.
 * **Tenants** – Cloud computing provides a common software platform. Tenants share the platform but are completely isolated from one another. They have their own data, network and security.
 * **Flavors** – Cloud computing offers infrastructure as a service. A flavor describes a specific type of instance and what kind of resources are made available to the instance. All instances are created from a type of flavor.
