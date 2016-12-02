@@ -68,6 +68,3 @@ Feel free to zoom in, download, open in a new window, minimize, and then minimiz
 To return to this screen, select Cloud Intel → Dashboard.
 
 Lastly, experiment with dragging widgets to tailor the view.
-
-### Summary
-You should now be ready to get hands-on with our workshop labs.
