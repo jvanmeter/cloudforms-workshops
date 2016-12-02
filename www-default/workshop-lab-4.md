@@ -15,8 +15,9 @@ In Red Hat CloudForms,
 ### Explore Infrastructure VMs
 
 > Select Compute → Infrastructure → Virtual Machines.
->
-**[INSERT_IMAGE_HERE]**
+
+<img alt="CloudForms Infrastructure VMs" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-infra-vms.png" width="600"/><br/>
+*Infrastructure VMs*
 
 A list of your private datacenter’s infrastructure virtual machines appears.
 
@@ -24,7 +25,8 @@ A list of your private datacenter’s infrastructure virtual machines appears.
 
 The web interface uses virtual thumbnails to represent providers. Each thumbnail contains four quadrants by default, which display basic information about each provider.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Example Virtual Thumbnail" src="{{ site.baseurl }}/www-default/screenshots/cfme-virt-thumbnail-vms.png"/><br/>
+*Example Virtual Thumbnail*
 
 * The top left quadrant shows the operating system running on the VM.
 * The top right quadrant shows the status of the VM.
@@ -34,15 +36,18 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 
 > In the top right corner of the window, click <i class="fa fa-th fa-lg" aria-hidden="true"></i> <i class="fa fa-th-large fa-lg" aria-hidden="true"></i> <i class="fa fa-list fa-lg" aria-hidden="true"></i> to toggle between **Grid**, **Tile**, and **List** views.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-grid-title-list-infra-vms.png"/><br/>
+*Top Window Navigation*
 
 > Click <i class="fa fa-download fa-lg" aria-hidden="true"></i> (**Download**) to download a list of VMs.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Download VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-download-infra-vm.png"/><br/>
+*Download VM*
 
 > Select the VM named `CF41_OpenStack1`, and examine the following details:
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Dashboard CF41_OpenStack1 VM" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-infra-vms.png"/><br/>
+*VMs Dashboard*
 
 1. The **Properties** section shows detailed information about the VM.
 2. The **Lifecycle** section shows when this VM was discovered, when it was most recently analyzed, and when it is scheduled for retirement.
@@ -51,21 +56,21 @@ The web interface uses virtual thumbnails to represent providers. Each thumbnail
 5. The **Compliance** section shows whether the VM is compliant with its applied policies.
 6. The **Power Management** section shows the VM’s current power state, last boot time, and date of its most recent change in power state.
 7. The **Security** section lists users, groups, patches, firewall rules, and other operating system security-related information.
+8. The **Configuration** section lists applications/packages, services, and other operating system configuration information.
+9. The **Datastore Allocation** section shows the number of virtual disks in this VM—if the disks are aligned and if it is thin-provisioned—as well as the amount of space allocated.
+10. The **Datastore Actual Usage Summary** section shows how much actual disk space the VM is using.
+11. The **Diagnostics** section shows running processes and event logs for the VM.
+12. The **Smart Management** section shows that this host is tagged as existing at a specific location, as well as other tags that you can use in policies and other functions within CloudForms.
 
-> Click **Users** (under the Security section) to see a detailed list of user information.
+> Click **Users** (under the **Security** section) to see a detailed list of user information.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Dashboard CF41_OpenStack1 VM" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-infra-vms-users.png"/><br/>
+*VMs Dashboard Users*
 
-The **Configuration** section lists applications/packages, services, and other operating system configuration information.
+> Click **Packages** (under the **Configuration** section) to view details of packages installed on this VM.
 
-> Click **Packages** to view details of packages installed on this VM.
-
-**[INSERT_IMAGE_HERE]**
-
-1. The **Datastore Allocation** section shows the number of virtual disks in this VM—if the disks are aligned and if it is thin-provisioned—as well as the amount of space allocated.
-2. The **Datastore Actual Usage Summary** section shows how much actual disk space the VM is using.
-3. The **Diagnostics** section shows running processes and event logs for the VM.
-4. The **Smart Management** section shows that this host is tagged as existing at a specific location, as well as other tags that you can use in policies and other functions within CloudForms.
+<img alt="CloudForms Dashboard CF41_OpenStack1 VM" src="{{ site.baseurl }}/www-default/screenshots/cfme-dashboard-infra-vms-packages.png"/><br/>
+*VMs Dashboard Packages*
 
 ### Explore Infrastructure VM Utilization
 
