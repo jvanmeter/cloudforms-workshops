@@ -37,7 +37,8 @@ Log out of the `consumer` account and log in to the `admin` account.
 
 > Select **Services** → **Requests**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-request-test.png"/><br/>
+*Ticket Monster Verify*
 
 Click the request you just made.
 
