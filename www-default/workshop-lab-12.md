@@ -47,13 +47,14 @@ Select any of the reports shown and note how each instance is charged by resourc
 
 Observe how rates are assigned to each resource.
 
-> Click  (Configuration).
+> Click <i class="fa fa-cog fa-lg" aria-hidden="true"></i> (**Configuration**) and select <i class="fa fa-files-o" aria-hidden="true"></i> (**Copy this Chargeback Rate**).
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-rates-compute-default-copy.png"/><br/>
+*Chargeback Compute Copy*
 
 Edit this chargeback rate, note the possible settings, and then click Cancel to discard your changes.
 
-Repeat step 3 for Rates → Storage → Default.
+Repeat steps for **Rates** → **Storage** → **Default**.
 
 ### Explore Assignments
 
