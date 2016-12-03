@@ -46,7 +46,8 @@ Add a group:
 5. For **Project/Tenant**, select `Red Hat`.
 6. Click **Add**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-add-group.png"/><br/>
+*Add Group*
 
 Add a user:
 
@@ -55,12 +56,14 @@ Add a user:
   * Fill out the resulting form with `consumer` as the username and a password of your choosing.
 3. Select **Consumer-Group** for Group and click Add.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-add-user.png"/><br/>
+*Add User*
 
 ### Account Verification
 > In the top right corner, click `Administrator | EVM` and select Logout.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-logout.png"/><br/>
+*Logout*
 
 :information_source: Instead of logging in and out of the `admin` account to do this, you can open a new browser or a "private" or "incognito" window in the same browser.
 
@@ -69,6 +72,7 @@ Add a user:
 3. This dashboard has a different set of widgets and fewer selections in the left bar (**Cloud Intelligence**, **Services**, **Compute**, and **Settings**).
 4. Explore the data provided.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-test-user.png"/><br/>
+*Customer-Group User*
 
 :information_source: This data is more specific and targeted to end users.
