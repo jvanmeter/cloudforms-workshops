@@ -16,20 +16,23 @@ previous: workshop-lab-9.html
 
 **[INSERT_IMAGE_HERE]**
 
-On the right, select the catalog item called `Deploy Ticket Monster on VMware`
+> On the right, select the catalog item called **Deploy Ticket Monster on VMware**.
+
+**[INSERT_IMAGE_HERE]**
 
 > Click **Order** to order the service.
 
+**[INSERT_IMAGE_HERE]**
 
-Enter values for DBName and App Server Name and click **Submit**.
+Enter values for **DBName** and **App Server Name** and click **Submit**.
 
 :information_source: The request is submitted in a similar way to provisioning as admin, but with fewer choices.
 
 ### Verify Catalog Configuration
 
-Log out of the consumer account and log in to the admin account.
+Log out of the `consumer` account and log in to the `admin` account.
 
-> Select Services → Requests.
+> Select **Services** → **Requests**.
 
 **[INSERT_IMAGE_HERE]**
 
