@@ -10,6 +10,8 @@ previous: workshop-lab-10.html
 
 Log in to CloudForms using the admin account.
 
+### Explore Catalog Configuration
+
 > Select Services → Catalogs.
 
 **[INSERT_IMAGE_HERE]**

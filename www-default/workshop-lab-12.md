@@ -8,7 +8,12 @@ next: workshop-lab-13.html
 previous: workshop-lab-11.html
 ---
 
-Select Cloud Intel → Chargeback.
+### Explore Chargeback
+
+> Select Cloud Intel → Chargeback.
+
+**[INSERT_IMAGE_HERE]**
+
 Explore Reports:
 Select the Reports accordion.
 Select Saved Chargeback Reports → Chargeback (Admin)
