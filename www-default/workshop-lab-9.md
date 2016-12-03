@@ -52,7 +52,7 @@ Add a user:
 
 1. Select Users.
 2. Click <i class="fa fa-cog fa-lg" aria-hidden="true"></i> (**Configuration**), then click <i class="fa fa-plus-circle fa-lg" aria-hidden="true"></i> (**Add**).
-  * Fill out the resulting form with consumer as the username and a password of your choosing.
+  * Fill out the resulting form with `consumer` as the username and a password of your choosing.
 3. Select **Consumer-Group** for Group and click Add.
 
 **[INSERT_IMAGE_HERE]**
@@ -62,11 +62,11 @@ Add a user:
 
 **[INSERT_IMAGE_HERE]**
 
-:information_source: Instead of logging in and out of the admin account to do this, you can open a new browser or a "private" or "incognito" window in the same browser.
+:information_source: Instead of logging in and out of the `admin` account to do this, you can open a new browser or a "private" or "incognito" window in the same browser.
 
 1. Log in to CloudForms as the consumer user with the password you set.
 2. Observe that the default dashboard is different from the administrator dashboard.
-3. This dashboard has a different set of widgets and fewer selections in the left bar (Cloud Intelligence, Services, Compute, and Settings).
+3. This dashboard has a different set of widgets and fewer selections in the left bar (**Cloud Intelligence**, **Services**, **Compute**, and **Settings**).
 4. Explore the data provided.
 
 **[INSERT_IMAGE_HERE]**
