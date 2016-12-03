@@ -14,31 +14,36 @@ In Red Hat CloudForms, the chargeback feature of CloudForms Management Engine (C
 
 ### Explore Chargeback
 
-> Select Cloud Intel → Chargeback.
+> Select** Cloud Intel** → **Chargeback**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback.png"/><br/>
+*Chargeback*
 
 #### Explore Reports
 
-> Select the Reports accordion.
+> Select the **Reports** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-reports.png"/><br/>
+*Chargeback Reports*
 
-> Select Saved Chargeback Reports → Chargeback (Admin)
+> Select **Saved Chargeback Reports** → **Chargeback (Admin)**
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-reports-admin.png"/><br/>
+*Chargeback (Admin)*
 
 Select any of the reports shown and note how each instance is charged by resources consumed.
 
 ### Explore Rates
 
-> Select the Rates accordion.
+> Select the **Rates** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-rates.png"/><br/>
+*Chargeback Rates*
 
-> Select Rates → Compute → Default.
+> Select **Rates** → **Compute** → **Default**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-rates-compute-default.png"/><br/>
+*Chargeback Compute Default*
 
 Observe how rates are assigned to each resource.
 
