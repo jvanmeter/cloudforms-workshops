@@ -8,7 +8,7 @@ next: workshop-lab-11.html
 previous: workshop-lab-9.html
 ---
 
-:warning: The following is run as a customer (not admin) account.
+:warning: The following is run as a customer (not admin) account initially.
 
 ### Explore Catalog Configuration
 
