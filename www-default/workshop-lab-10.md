@@ -14,17 +14,20 @@ previous: workshop-lab-9.html
 
 > Select **Services** → **Catalogs**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-catalog.png"/><br/>
+*Services Catalog*
 
 > On the right, select the catalog item called **Deploy Ticket Monster on VMware**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-ticket-monster.png"/><br/>
+*Ticket Monster*
 
 > Click **Order** to order the service.
 
-**[INSERT_IMAGE_HERE]**
-
 Enter values for **DBName** and **App Server Name** and click **Submit**.
+
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-ticket-monster-submit.png"/><br/>
+*Ticket Monster Submit*
 
 :information_source: The request is submitted in a similar way to provisioning as admin, but with fewer choices.
 
