@@ -8,8 +8,25 @@ next: workshop-lab-18.html
 previous: workshop-lab-16.html
 ---
 
-Select Control → Explorer.
-Select the Conditions accordion.
-Select All Conditions → All VM and Instance Conditions.
-Select Vulnerable bash Package (ShellShock).
+### What Are Conditions?
+
+### Explore Conditions
+
+> Select Control → Explorer.
+
+**[INSERT_IMAGE_HERE]**
+
+
+> Select the Conditions accordion.
+
+**[INSERT_IMAGE_HERE]**
+
+> Select All Conditions → All VM and Instance Conditions.
+
+**[INSERT_IMAGE_HERE]**
+
+> Select Vulnerable bash Package (ShellShock).
+
+**[INSERT_IMAGE_HERE]**
+
 Examine the Expression.
