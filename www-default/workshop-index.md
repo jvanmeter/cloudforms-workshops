@@ -25,7 +25,7 @@ html_title: Workshops
 
 ### [Lab: Explore Cloud Instances](workshop-lab-8.html)
 
-### [Lab: Explore Dashboard](workshop-lab-9.html)
+### [Lab: Add New Role, Group, & User](workshop-lab-9.html)
 
 ### [Lab: Examine Catalog Provisioning](workshop-lab-10.html)
 
