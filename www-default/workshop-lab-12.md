@@ -8,6 +8,8 @@ next: workshop-lab-13.html
 previous: workshop-lab-11.html
 ---
 
+### What Is Chargeback?
+
 ### Explore Chargeback
 
 > Select Cloud Intel → Chargeback.
