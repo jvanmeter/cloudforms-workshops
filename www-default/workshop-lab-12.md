@@ -10,6 +10,8 @@ previous: workshop-lab-11.html
 
 ### What Is Chargeback?
 
+In Red Hat CloudForms, the chargeback feature of CloudForms Management Engine (CFME) allows you to calculate monetary virtual machine charges based on owner or company tag.
+
 ### Explore Chargeback
 
 > Select Cloud Intel → Chargeback.
