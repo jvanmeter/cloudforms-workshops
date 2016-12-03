@@ -52,24 +52,27 @@ Observe how rates are assigned to each resource.
 <img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-rates-compute-default-copy.png"/><br/>
 *Chargeback Compute Copy*
 
-Edit this chargeback rate, note the possible settings, and then click Cancel to discard your changes.
+Edit this chargeback rate, note the possible settings, and then click **Cancel** to discard your changes.
 
 Repeat steps for **Rates** → **Storage** → **Default**.
 
 ### Explore Assignments
 
-> Select the Assignments accordion.
+> Select the **Assignments** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-assignments.png"/><br/>
+*Chargeback Assignments*
 
-> Select Assignments → Compute.
+> Select **Assignments** → **Compute**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-assignments-compute.png"/><br/>
+*Chargeback Assignments Compute*
 
 Observe that the computed rate assignments are configured for the entire enterprise using the default rates from the previous accordion.
 
-> Select Assignments → Storage.
+> Select **Assignments** → **Storage**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-assignments-storage.png"/><br/>
+*Chargeback Assignments Storage*
 
 Observe that the computed rate assignments are configured for the entire enterprise using the default rates from the previous accordion.
