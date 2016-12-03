@@ -14,11 +14,13 @@ Log in to CloudForms using the `admin` account.
 
 > Select **Services** → **Catalogs**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-catalogs.png"/><br/>
+*Services Catalog**
 
 > Select the **Catalog Items** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-catalog-items.png"/><br/>
+*Services Catalog Items**
 
 > Select **All Catalog Items** → **VMware Operations** → **Deploy Ticket Monster on VMware**
 
