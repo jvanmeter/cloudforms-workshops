@@ -14,21 +14,21 @@ In Red Hat CloudForms, the chargeback feature of CloudForms Management Engine (C
 
 ### Explore Chargeback
 
-> Select** Cloud Intel** → **Chargeback**.
+> Select **Cloud Intel** → **Chargeback**.
 
-<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback.png"/><br/>
+<img alt="CloudForms Chargeback" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback.png"/><br/>
 *Chargeback*
 
 #### Explore Reports
 
 > Select the **Reports** accordion.
 
-<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-reports.png"/><br/>
+<img alt="CloudForms Chargeback Reports" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-reports.png"/><br/>
 *Chargeback Reports*
 
 > Select **Saved Chargeback Reports** → **Chargeback (Admin)**
 
-<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-reports-admin.png"/><br/>
+<img alt="CloudForms Chargeback Reports Admin" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-chargeback-reports-admin.png"/><br/>
 *Chargeback (Admin)*
 
 Select any of the reports shown and note how each instance is charged by resources consumed.
