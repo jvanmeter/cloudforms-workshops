@@ -14,17 +14,17 @@ previous: workshop-lab-10.html
 
 > Select **Services** → **Catalogs**.
 
-<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-catalogs.png"/><br/>
+<img alt="CloudForms Services Catalog" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-catalogs.png"/><br/>
 *Services Catalog**
 
 > Select the **Catalog Items** accordion.
 
-<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-catalog-items.png"/><br/>
+<img alt="CloudForms Services Catalog Items" src="{{ site.baseurl }}/www-default/screenshots/cfme-catalog-items.png"/><br/>
 *Services Catalog Items**
 
 > Select **All Catalog Items** → **VMware Operations** → **Deploy Ticket Monster on VMware**
 
-<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-catalog-ticket-monster.png"/><br/>
+<img alt="CloudForms Ticket Monster VM" src="{{ site.baseurl }}/www-default/screenshots/cfme-services-catalog-ticket-monster.png"/><br/>
 *Services Catalog Ticket Monster**
 
 Explore the **Details** and **Selected Resources** tabs.
