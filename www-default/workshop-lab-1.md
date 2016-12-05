@@ -25,8 +25,8 @@ Before sinking our teeth into Cloud Forms it is important to understand some ter
 * **Flavors** – Cloud computing offers infrastructure as a service. A flavor describes a specific type of instance and what kind of resources are made available to the instance. All instances are created from a type of flavor.
 * **Security Groups** – Tenant based security that defines Ingres and Egres access to instances.
 * **Instances** – Virtual Machines running under cloud infrastructure.
-* **Container** – Your software wrapped in a complete filesystem containing everything it needs to run
-* **Image** – We are talking about Docker images; read-only and used to create containers
+* **Container** – Your software wrapped in a complete filesystem containing everything it needs to run.
+* **Image** – We are talking about Docker images; read-only and used to create containers.
 
 ### Accessing CloudForms
 CloudForms provides a web console that allow you to perform various tasks via a web browser. Let's get started by logging into this and checking the status of the platform.
