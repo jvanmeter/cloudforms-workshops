@@ -10,13 +10,15 @@ previous: workshop-lab-13.html
 
 ### Explore Planning
 
-> Select Optimize → Planning.
+> Select **Optimize** → **Planning**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Optimize Planning" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-optimize-planning.png"/><br/>
+*Optimize Planning*
 
-> Under Reference VM Selection, select All VMs.
+> Under **Reference VM Selection**, select **All VMs**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Optimize Planning" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-optimize-planning-ref-vm.png"/><br/>
+*Reference VM Selection*
 
 Choose the `CFME027` VM.
 
