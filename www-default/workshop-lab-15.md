@@ -77,19 +77,17 @@ Examine other actions and results.
 
 ### Explore Alerts
 
-> Select Control → Explorer.
+> Select the **Alerts** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-alerts-accordion.png"/><br/>
+*Alerts Accordion*
 
-> Select the Alerts accordion.
+> Select **All Alerts** → **VM Memory was decreased**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-alerts-vm-decrease.png"/><br/>
+*VM Memory Alerts*
 
-> Select All Alerts → VM Memory was decreased.
-
-**[INSERT_IMAGE_HERE]**
-
-Review the Hardware Reconfigured Parameters section to see what this alert monitors.
+Review the **Hardware Reconfigured Parameters** section to see what this alert monitors.
 
 ### Explore Alert Profiles
 
