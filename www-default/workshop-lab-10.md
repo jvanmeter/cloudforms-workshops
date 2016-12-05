@@ -1,8 +1,8 @@
 ---
 layout: lab
-title: Examine Catalog Provisioning
-subtitle:
-html_title:
+title: Examine Catalog
+subtitle: Multi-tier Service Provisioning
+html_title: Multi-tier Service Provisioning
 categories: [lab, providers, ops]
 next: workshop-lab-11.html
 previous: workshop-lab-9.html
