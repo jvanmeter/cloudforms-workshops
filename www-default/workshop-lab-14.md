@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Explore Planning
-subtitle:
-html_title:
+subtitle: Improve Operational Visibility & Control
+html_title: Improve Operational Visibility & Control
 categories: [lab, providers, ops]
 next: workshop-lab-15.html
 previous: workshop-lab-13.html
