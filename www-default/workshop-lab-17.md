@@ -33,9 +33,10 @@ You can click each element to see a list and then click the individual items in 
 
 This lab does not contain any Volumes or Builds, but you can see them in a live environment.
 
-> Go to Compute → Containers and click Topology.
+> Go to **Compute** → **Containers** → **Topology**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-compute-containers-topology.png"/><br/>
+*Container Topology*
 
 Explore the filtering features by activating and deactivating any of the following items on the map:
 
