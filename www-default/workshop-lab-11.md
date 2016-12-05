@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Explore Catalog Configuration
-subtitle:
-html_title:
+subtitle: Customized Dialogs
+html_title: Customized Dialogs
 categories: [lab, providers, ops]
 next: workshop-lab-12.html
 previous: workshop-lab-10.html
