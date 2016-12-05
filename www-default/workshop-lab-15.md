@@ -33,13 +33,15 @@ On the right, observe the Expression used for this policy.
 
 ### Explore Events
 
-> Select the Events accordion.
+> Select the **Events** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-events-accordion.png"/><br/>
+*Events Accordion*
 
-> Select All Events → VM Compliance Check.
+> Select **All Events** → **Container Image Discovered**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-container-image-discovered.png"/><br/>
+*Container Image Discovered*
 
 Observe that the imported policy shows up as assigned.
 
