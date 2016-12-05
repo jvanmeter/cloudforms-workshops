@@ -91,13 +91,15 @@ Review the **Hardware Reconfigured Parameters** section to see what this alert m
 
 ### Explore Alert Profiles
 
-> Select the Alert Profiles accordion.
+> Select the **Alert Profiles** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-alert-profile.png"/><br/>
+*Alerts Profile Accordion*
 
-> Select All Alert Profiles → VM and Instance Alert Profiles.
+> Select **All Alert Profiles** → **VM and Instance Alert Profiles**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-alert-profile-vm-instance.png"/><br/>
+*All VM and Instance Alert Profiles*
 
 Add an alert profile:
 
