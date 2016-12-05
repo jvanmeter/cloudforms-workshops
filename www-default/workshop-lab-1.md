@@ -50,6 +50,7 @@ Once logged in you should see the **Cloud Intelligence** dashboard. This customi
 ### Explore Cloud Intel Dashboard
 
 Go ahead and explore the data in each of the widgets:
+
 - Vendor and Guest OS Chart
 - Guest OS Information
 - Virtual Infrastructure Platforms
