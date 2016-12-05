@@ -123,6 +123,7 @@ Assign your alert profile:
 4. Check the **Raleigh** box.
 5. Click **Save**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-alert-profile-assign.png"/><br/>
+*Assign Alert Profile*
 
 You have now assigned this alert to any VM in the Raleigh cluster.
