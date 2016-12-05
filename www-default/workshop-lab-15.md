@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Examine Policies
-subtitle:
-html_title:
+subtitle: Ensure Compliance & Governance
+html_title: Ensure Compliance & Governance
 categories: [lab, providers, ops]
 next: workshop-lab-16.html
 previous: workshop-lab-14.html
