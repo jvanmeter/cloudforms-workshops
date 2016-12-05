@@ -61,15 +61,19 @@ Examine the **Expression**.
 
 ### Explore Actions
 
-> Select the Actions accordion.
+> Select the **Actions** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-actions-accordion.png"/><br/>
+*Actions Accordion*
 
-> Select All Actions → Send Email to Security Team.
+> Select **All Actions** → **Send Email to Security Team**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-actions-send-email.png"/><br/>
+*Send Email*
 
 Observe what this action does and the policies to which it is assigned.
+
+Examine other actions and results.
 
 ### Explore Alerts
 
