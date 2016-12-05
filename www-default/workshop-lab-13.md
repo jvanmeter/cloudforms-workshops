@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Explore Utilization
-subtitle:
-html_title:
+subtitle: Observing Metrics
+html_title: Observing Metrics
 categories: [lab, providers, ops]
 next: workshop-lab-14.html
 previous: workshop-lab-12.html
