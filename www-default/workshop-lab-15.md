@@ -47,19 +47,17 @@ Observe that the imported policy shows up as assigned.
 
 ### Explore Conditions
 
-> Select the Conditions accordion.
+> Select the **Conditions** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-conditions-accordion.png"/><br/>
+*Conditions Accordion*
 
-> Select All Conditions → All VM and Instance Conditions.
+> Select **All Conditions** → **All VM and Instance Conditions** → **Vulnerable bash Package (ShellShock)**
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-conditions-shellshock.png"/><br/>
+*Conditions ShellShock*
 
-> Select Vulnerable bash Package (ShellShock).
-
-**[INSERT_IMAGE_HERE]**
-
-Examine the Expression.
+Examine the **Expression**.
 
 ### Explore Actions
 
