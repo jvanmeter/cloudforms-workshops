@@ -10,9 +10,10 @@ previous: workshop-lab-15.html
 
 ### Explore Network Topology
 
-> Select Networks → Topology.
+> Select **Networks** → **Topology**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-networks-topology.png"/><br/>
+*Network Topology*
 
 A topology view of the network appears.
 
