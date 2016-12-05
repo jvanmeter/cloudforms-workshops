@@ -14,14 +14,19 @@ In Red Hat CloudForms, Policy profiles are groupings of policies that you can ap
 
 ### Examine Policies
 
-> Select Control → Explorer.
+> Select **Control** → **Explorer**.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-control-explorer.png"/><br/>
+*Control Explorer*
 
-> Select the Policy Profiles accordion.
+> Select the **Policy Profiles** accordion.
 
-**[INSERT_IMAGE_HERE]**
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-policy-profile-accordion.png"/><br/>
+*Policy Profile Accordion*
 
-Select All Policy Profiles → Linux Compliance Check → VM and Instance Compliance: Shell-Shock Vulnerability → Vulnerable bash Package (ShellShock).
+> Select **All Policy Profiles** → **Linux Compliance Check** → **VM and Instance Compliance: Shell-Shock Vulnerability** → **Vulnerable bash Package (ShellShock)**.
+
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-shell-shock.png"/><br/>
+*Shell-Shock Vulnerability*
 
 On the right, observe the Expression used for this policy.
