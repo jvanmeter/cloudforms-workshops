@@ -37,18 +37,10 @@ html_title: Workshops
 
 ### [Lab: Explore Planning](workshop-lab-14.html)
 
-### [Lab: Examine Policies](workshop-lab-15.html)
+### [Lab: Examine Policies, Events, Conditions, Actions, & Alerts](workshop-lab-15.html)
 
-### [Lab: Explore Events](workshop-lab-16.html)
+### [Lab: Explore Network Topology](workshop-lab-16.html)
 
-### [Lab: Explore Conditions](workshop-lab-17.html)
-
-### [Lab: Explore Actions](workshop-lab-18.html)
-
-### [Lab: Explore Alerts](workshop-lab-19.html)
-
-### [Lab: Explore Network Topology](workshop-lab-20.html)
-
-### [Lab: Explore Containers](workshop-lab-21.html)
+### [Lab: Explore Containers](workshop-lab-17.html)
 
 ### [Fin.](workshop-finally.html)
