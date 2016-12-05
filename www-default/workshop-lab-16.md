@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Explore Network Topology
-subtitle:
-html_title:
+subtitle: Quickly View and Categorize Information
+html_title: Quickly View and Categorize Information
 categories: [lab, providers, ops]
 next: workshop-lab-17.html
 previous: workshop-lab-15.html
