@@ -1,8 +1,8 @@
 ---
 layout: lab
 title: Explore Containers
-subtitle:
-html_title:
+subtitle: Manage Container Resources
+html_title: Manage Container Resources
 categories: [lab, providers, ops]
 next: workshop-finally.html
 previous: workshop-lab-16.html
