@@ -165,6 +165,11 @@ Invoking [inline] method [/ACME/General/Methods/hello_world] with inputs [{}]
 Method exited with rc=MIQ_OK
 ```
 
+Or, like so from a private browser session:
+
+<img alt="CloudForms Top Window Navigation VM Providers" src="{{ site.baseurl }}/www-default/screenshots/cfme-nav-automate-log-helloworld.png"/><br/>
+*"Hello World!" log message*
+
 Success!
 
 ### Exit Status Codes
