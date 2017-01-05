@@ -45,4 +45,6 @@ html_title: Workshops
 
 ### [Lab: Introduction to the Automate Datastore](workshop-lab-18.html)
 
+### [Lab: “Hello, World!” Automation Script](workshop-lab-19.html)
+
 ### [Fin.](workshop-finally.html)
