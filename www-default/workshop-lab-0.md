@@ -16,7 +16,7 @@ We will use a few git commands directly in some of the advanced labs, please mak
 ### Create GitHub account
 Create a **FREE** GitHub account by going to this [link][2]{:target='_blank'} and following their step-by-step instructions.
 
-### Install Docker (optional)
+### Install Docker
 If you'd like to build this workshop locally, please make sure Docker is installed on your system. You can download the latest version [here][3]{:target='_blank'}.
 
 Afterwards, check out the following [Public Docker Hub Repository][4]{:target='_blank'}.
