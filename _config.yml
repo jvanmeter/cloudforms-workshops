@@ -32,7 +32,6 @@ exclude:
   - less
   - examples
 
-
 # Enable emoji
 gems:
   - jemoji
