@@ -19,6 +19,9 @@ Create a **FREE** GitHub account by going to this [link][2]{:target='_blank'} an
 ### Install Docker (optional)
 If you'd like to build this workshop locally, please make sure Docker is installed on your system. You can download the latest version [here][3]{:target='_blank'}.
 
+Afterwards, check out the following [Public Docker Hub Repository][4]{:target='_blank'}.
+
 [1]: http://git-scm.com/downloads
 [2]: https://github.com/join?source=header-home
 [3]: https://docs.docker.com/engine/installation/
+[4]: https://hub.docker.com/r/ecwpz91/cfme4-demo/
