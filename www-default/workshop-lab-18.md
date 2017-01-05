@@ -2,9 +2,9 @@
 layout: lab
 title: Introduction to the Automate Datastore
 subtitle: Key Terminology for Writing Our Own Automation Script
-html_title: Manage Container Resources
+html_title: Key Terminology for Writing Our Own Automation Script
 categories: [lab, script, automation, ops]
-next: workshop-finally.html
+next: workshop-lab-19.html
 previous: workshop-lab-17.html
 ---
 
