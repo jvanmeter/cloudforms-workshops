@@ -4,7 +4,7 @@ title: Explore Containers
 subtitle: Manage Container Resources
 html_title: Manage Container Resources
 categories: [lab, providers, ops]
-next: workshop-finally.html
+next: workshop-lab-18.html
 previous: workshop-lab-16.html
 ---
 

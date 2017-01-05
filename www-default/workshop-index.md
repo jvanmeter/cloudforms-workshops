@@ -43,4 +43,6 @@ html_title: Workshops
 
 ### [Lab: Explore Containers](workshop-lab-17.html)
 
+### [Lab: Introduction to the Automate Datastore](workshop-lab-18.html)
+
 ### [Fin.](workshop-finally.html)
